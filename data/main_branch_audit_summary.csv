@@ -1,0 +1,2 @@
+tested_count,min_ratio,max_ratio,max_complex_abs_error,mean_complex_abs_error,max_magnitude_error,mean_magnitude_error,max_angle_error,mean_angle_error
+120106,1.0,3.9993560849967804,2.4510768355742725e-16,8.12140706597992e-17,2.445960101127298e-16,8.120514673774707e-17,0.0,0.0
